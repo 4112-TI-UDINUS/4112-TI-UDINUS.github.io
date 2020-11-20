@@ -35,7 +35,7 @@ Dalam bahasa Indonesia, istilah Informatika diturunkan dari bahasa Prancis infor
 
 ##### Sistem Informasi
 
-Sistem Informasi adalah aplikasi komputer untuk mendukung operasi dari suatu organisasi yaitu: operasi, instalasi, dan perawatan komputer, perangkat lunak, dan data. Sistem Informasi Manajemen adalah kunci dari bidang yang menekankan finansial dan personal manajemen. 'Sistem Informasi' dapat berupa gabungan dari beberapa elemen teknologi berbasis komputer yang saling berinteraksi dan bekerja sama berdasarkan suatu prosedur kerja aturan kerja yang telah ditetapkan, dimana memproses dan mengolah data menjadi suatu bentuk informasi yang dapat digunakan dalam mendukung keputusan.
+Sistem Informasi adalah aplikasi komputer untuk mendukung operasi dari suatu organisasi yaitu: operasi, instalasi, dan perawatan komputer, perangkat lunak, dan data. Sistem Informasi Manajemen adalah kunci dari bidang yang menekankan finansial dan personal manajemen. *Sistem Informasi* dapat berupa gabungan dari beberapa elemen teknologi berbasis komputer yang saling berinteraksi dan bekerja sama berdasarkan suatu prosedur kerja aturan kerja yang telah ditetapkan, dimana memproses dan mengolah data menjadi suatu bentuk informasi yang dapat digunakan dalam mendukung keputusan.
 
 ##### Ilmu Informasi
 
