@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Tentang Kami
+subtitle: Berikan yang terbaik untuk dunia
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Website ini hanya digunakan untuk mengorganisir pembelajaran IT UDINUS,
+beberapa path pembelajaran juga akan tersedia disini, baik teori maupun praktek.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Terima kasih kepada segenap teman-teman yang sudah berkontribusi:
+- [Hiskia Anggi Puji Pratama](https://github.com/hiskiapp)
+- [Danang Haris Setiawan](https://github.com/danangharissetiawan)
 
-What else do you need?
 
-### My story
+Keep Smile For Awesome
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Team story
+
+[4112 TI UDINUS](https://github.com/4112-TI-UDINUS)
